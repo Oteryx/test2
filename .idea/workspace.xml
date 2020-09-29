@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
@@ -151,6 +154,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1i8KMdrFfQrJkMVna26qcwWhsmc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -160,20 +164,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Blade" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Bureau/myspa" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\laravel\blog123\app\Http\Controllers" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\laravel\blog123\resources\views" />
+      <recent name="C:\wamp64\www\laravel\blog123\resources\js" />
       <recent name="C:\wamp64\www\laravel\blog123\resources\js\router" />
       <recent name="C:\wamp64\www\laravel\blog123\resources\js\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\laravel\blog123\app\Http\Controllers" />
     </key>
   </component>
   <component name="RunManager">
@@ -194,7 +199,9 @@
       <updated>1601283731870</updated>
       <workItem from="1601283733272" duration="1386000" />
       <workItem from="1601285193164" duration="1478000" />
-      <workItem from="1601291577578" duration="4103000" />
+      <workItem from="1601291577578" duration="8707000" />
+      <workItem from="1601361512238" duration="6705000" />
+      <workItem from="1601370698757" duration="616000" />
     </task>
     <servers />
   </component>
@@ -202,14 +209,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="714" y="81" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601297715631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="81" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601297715631" />
     <state x="696" y="339" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601294235557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="696" y="339" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1601294235557" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601285119347">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601363379238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601285119347" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601363379238" />
     <state x="1110" y="480" key="Github.ShareDialog" timestamp="1601295767289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -230,9 +241,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601285120198" />
-    <state x="741" y="229" key="SettingsEditor" timestamp="1601295952490">
+    <state x="741" y="229" key="SettingsEditor" timestamp="1601301760808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="229" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601295952490" />
+    <state x="741" y="229" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601301760808" />
   </component>
 </project>

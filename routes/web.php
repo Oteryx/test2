@@ -14,5 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/', [App\Http\Controllers\SpaController::class, 'index'])->name('welcome');
-Route::get('/', [App\Http\Controllers\TestController::class, 'index'])->name('welcome');
+Route::get('/blackroom', [App\Http\Controllers\SpaController::class, 'index'])->name('blackroom');
+Route::get('/judges', [App\Http\Controllers\Spa2Controller::class, 'index'])->name('judges');
+Route::get('/spots', [App\Http\Controllers\Spa2Controller::class, 'index'])->name('spots');
+

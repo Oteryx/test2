@@ -16,5 +16,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/blackroom', [App\Http\Controllers\SpaController::class, 'index'])->name('blackroom');
 Route::get('/judges', [App\Http\Controllers\Spa2Controller::class, 'index'])->name('judges');
-Route::get('/spots', [App\Http\Controllers\Spa2Controller::class, 'index'])->name('spots');
+Route::get('/spots', [App\Http\Controllers\SpotsController::class, 'index'])->name('spots');
 
